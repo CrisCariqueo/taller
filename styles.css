@@ -1,0 +1,58 @@
+.logo {
+    width: 300px;
+    float: left;
+
+    font: 1em arial;
+}
+.contenido-logo {
+    float: left;
+}
+
+.botones {
+    float: left;
+
+    font: 1em arial;
+    
+}
+.boton{
+    width: 100px;
+    float: inline-start;
+}
+
+.atajos {
+    float: right;
+}
+.atajo {
+    width: 55px;
+    float: inline-start;
+}
+
+.places {
+    width: 90%;
+
+    font: 1em arial;
+
+    align-content: center;
+}
+.place {
+    width: 300px;
+    margin: 5px;
+
+    float: inline-start;
+}
+
+.producto {
+    width: 200px;
+    height: 350px;
+    margin: 20px;
+    float: left;
+
+    font: 1em arial;
+    
+    background-color: ghostwhite;
+}
+
+.show-more {
+    width: 170px;
+    align-content: center;
+}
