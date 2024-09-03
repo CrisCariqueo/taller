@@ -27,8 +27,13 @@
     float: inline-start;
 }
 
+.descripcion {
+    width: 100%;
+    font: 1em arial;
+}
+
 .places {
-    width: 90%;
+    max-width: 950px;
 
     font: 1em arial;
 
@@ -41,6 +46,9 @@
     float: inline-start;
 }
 
+.productos {
+    max-width: 1000px;
+}
 .producto {
     width: 200px;
     height: 350px;
@@ -53,6 +61,6 @@
 }
 
 .show-more {
-    width: 170px;
+    width: 100%;
     align-content: center;
 }
